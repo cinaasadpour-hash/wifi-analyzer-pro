@@ -42,7 +42,7 @@ Native banner in history and a capped interstitial after a completed speed test;
 
 ## Download and updates | دریافت و به‌روزرسانی
 
-Android APK, version **1.0.2**. Package: `com.sinatools.wifianalyzer`.
+Android APK, version **1.0.3**. Package: `com.sinatools.wifianalyzer`.
 For updates, install over the existing app to preserve its local data. Do not uninstall first.
 
 برای حفظ اطلاعات، نسخه جدید را روی نسخه قبلی نصب کنید؛ ابتدا برنامه را حذف نکنید.
