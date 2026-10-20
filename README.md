@@ -50,3 +50,26 @@ For updates, install over the existing app to preserve its local data. Do not un
 [Privacy / حریم خصوصی](PRIVACY.md)
 
 This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/01-dashboard.png" width="240" alt="WiFi Analyzer Pro en 01-dashboard" />
+<img src="screenshots/en/02-networks.png" width="240" alt="WiFi Analyzer Pro en 02-networks" />
+<img src="screenshots/en/03-channels.png" width="240" alt="WiFi Analyzer Pro en 03-channels" />
+<img src="screenshots/en/04-tools.png" width="240" alt="WiFi Analyzer Pro en 04-tools" />
+<img src="screenshots/en/08-speed-test.png" width="240" alt="WiFi Analyzer Pro en 08-speed-test" />
+
+### فارسی
+
+<img src="screenshots/fa/01-dashboard.png" width="240" alt="WiFi Analyzer Pro fa 01-dashboard" />
+<img src="screenshots/fa/02-networks.png" width="240" alt="WiFi Analyzer Pro fa 02-networks" />
+<img src="screenshots/fa/03-channels.png" width="240" alt="WiFi Analyzer Pro fa 03-channels" />
+<img src="screenshots/fa/04-tools.png" width="240" alt="WiFi Analyzer Pro fa 04-tools" />
+<img src="screenshots/fa/08-speed-test.png" width="240" alt="WiFi Analyzer Pro fa 08-speed-test" />
+
